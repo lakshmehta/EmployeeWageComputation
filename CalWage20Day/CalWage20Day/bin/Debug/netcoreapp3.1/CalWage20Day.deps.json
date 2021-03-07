@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CalWage20Day/1.0.0": {
+        "runtime": {
+          "CalWage20Day.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalWage20Day/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
