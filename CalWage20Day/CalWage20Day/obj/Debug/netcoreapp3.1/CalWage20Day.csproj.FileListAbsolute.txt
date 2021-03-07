@@ -1,0 +1,12 @@
+C:\Users\laksh\source\repos\CalWage20Day\CalWage20Day\obj\Debug\netcoreapp3.1\CalWage20Day.AssemblyInfoInputs.cache
+C:\Users\laksh\source\repos\CalWage20Day\CalWage20Day\obj\Debug\netcoreapp3.1\CalWage20Day.AssemblyInfo.cs
+C:\Users\laksh\source\repos\CalWage20Day\CalWage20Day\obj\Debug\netcoreapp3.1\CalWage20Day.csproj.CoreCompileInputs.cache
+C:\Users\laksh\source\repos\CalWage20Day\CalWage20Day\bin\Debug\netcoreapp3.1\CalWage20Day.exe
+C:\Users\laksh\source\repos\CalWage20Day\CalWage20Day\bin\Debug\netcoreapp3.1\CalWage20Day.deps.json
+C:\Users\laksh\source\repos\CalWage20Day\CalWage20Day\bin\Debug\netcoreapp3.1\CalWage20Day.runtimeconfig.json
+C:\Users\laksh\source\repos\CalWage20Day\CalWage20Day\bin\Debug\netcoreapp3.1\CalWage20Day.runtimeconfig.dev.json
+C:\Users\laksh\source\repos\CalWage20Day\CalWage20Day\bin\Debug\netcoreapp3.1\CalWage20Day.dll
+C:\Users\laksh\source\repos\CalWage20Day\CalWage20Day\bin\Debug\netcoreapp3.1\CalWage20Day.pdb
+C:\Users\laksh\source\repos\CalWage20Day\CalWage20Day\obj\Debug\netcoreapp3.1\CalWage20Day.dll
+C:\Users\laksh\source\repos\CalWage20Day\CalWage20Day\obj\Debug\netcoreapp3.1\CalWage20Day.pdb
+C:\Users\laksh\source\repos\CalWage20Day\CalWage20Day\obj\Debug\netcoreapp3.1\CalWage20Day.genruntimeconfig.cache
