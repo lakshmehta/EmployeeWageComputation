@@ -1,0 +1,13 @@
+C:\Users\laksh\source\repos\PartTimeWage\PartTimeWage\bin\Debug\netcoreapp3.1\PartTimeWage.exe
+C:\Users\laksh\source\repos\PartTimeWage\PartTimeWage\bin\Debug\netcoreapp3.1\PartTimeWage.deps.json
+C:\Users\laksh\source\repos\PartTimeWage\PartTimeWage\bin\Debug\netcoreapp3.1\PartTimeWage.runtimeconfig.json
+C:\Users\laksh\source\repos\PartTimeWage\PartTimeWage\bin\Debug\netcoreapp3.1\PartTimeWage.runtimeconfig.dev.json
+C:\Users\laksh\source\repos\PartTimeWage\PartTimeWage\bin\Debug\netcoreapp3.1\PartTimeWage.dll
+C:\Users\laksh\source\repos\PartTimeWage\PartTimeWage\bin\Debug\netcoreapp3.1\PartTimeWage.pdb
+C:\Users\laksh\source\repos\PartTimeWage\PartTimeWage\obj\Debug\netcoreapp3.1\PartTimeWage.csprojAssemblyReference.cache
+C:\Users\laksh\source\repos\PartTimeWage\PartTimeWage\obj\Debug\netcoreapp3.1\PartTimeWage.AssemblyInfoInputs.cache
+C:\Users\laksh\source\repos\PartTimeWage\PartTimeWage\obj\Debug\netcoreapp3.1\PartTimeWage.AssemblyInfo.cs
+C:\Users\laksh\source\repos\PartTimeWage\PartTimeWage\obj\Debug\netcoreapp3.1\PartTimeWage.csproj.CoreCompileInputs.cache
+C:\Users\laksh\source\repos\PartTimeWage\PartTimeWage\obj\Debug\netcoreapp3.1\PartTimeWage.dll
+C:\Users\laksh\source\repos\PartTimeWage\PartTimeWage\obj\Debug\netcoreapp3.1\PartTimeWage.pdb
+C:\Users\laksh\source\repos\PartTimeWage\PartTimeWage\obj\Debug\netcoreapp3.1\PartTimeWage.genruntimeconfig.cache
