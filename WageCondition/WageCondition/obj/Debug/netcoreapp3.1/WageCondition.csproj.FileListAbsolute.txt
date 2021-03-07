@@ -1,0 +1,13 @@
+F:\GIT\WageCondition\WageCondition\bin\Debug\netcoreapp3.1\WageCondition.exe
+F:\GIT\WageCondition\WageCondition\bin\Debug\netcoreapp3.1\WageCondition.deps.json
+F:\GIT\WageCondition\WageCondition\bin\Debug\netcoreapp3.1\WageCondition.runtimeconfig.json
+F:\GIT\WageCondition\WageCondition\bin\Debug\netcoreapp3.1\WageCondition.runtimeconfig.dev.json
+F:\GIT\WageCondition\WageCondition\bin\Debug\netcoreapp3.1\WageCondition.dll
+F:\GIT\WageCondition\WageCondition\bin\Debug\netcoreapp3.1\WageCondition.pdb
+F:\GIT\WageCondition\WageCondition\obj\Debug\netcoreapp3.1\WageCondition.csprojAssemblyReference.cache
+F:\GIT\WageCondition\WageCondition\obj\Debug\netcoreapp3.1\WageCondition.AssemblyInfoInputs.cache
+F:\GIT\WageCondition\WageCondition\obj\Debug\netcoreapp3.1\WageCondition.AssemblyInfo.cs
+F:\GIT\WageCondition\WageCondition\obj\Debug\netcoreapp3.1\WageCondition.csproj.CoreCompileInputs.cache
+F:\GIT\WageCondition\WageCondition\obj\Debug\netcoreapp3.1\WageCondition.dll
+F:\GIT\WageCondition\WageCondition\obj\Debug\netcoreapp3.1\WageCondition.pdb
+F:\GIT\WageCondition\WageCondition\obj\Debug\netcoreapp3.1\WageCondition.genruntimeconfig.cache
