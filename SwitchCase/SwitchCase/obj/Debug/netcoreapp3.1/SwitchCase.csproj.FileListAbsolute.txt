@@ -1,0 +1,13 @@
+C:\Users\laksh\source\repos\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.exe
+C:\Users\laksh\source\repos\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.deps.json
+C:\Users\laksh\source\repos\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.runtimeconfig.json
+C:\Users\laksh\source\repos\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.runtimeconfig.dev.json
+C:\Users\laksh\source\repos\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.dll
+C:\Users\laksh\source\repos\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.pdb
+C:\Users\laksh\source\repos\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.csprojAssemblyReference.cache
+C:\Users\laksh\source\repos\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\laksh\source\repos\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.AssemblyInfo.cs
+C:\Users\laksh\source\repos\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\laksh\source\repos\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.dll
+C:\Users\laksh\source\repos\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.pdb
+C:\Users\laksh\source\repos\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.genruntimeconfig.cache
